@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="RedactorLeve01">
+</Property><Property Name="Файл решения" Value="E:\Users\Keeper\Documents\Visual Studio 2010\Projects\RedactorLeve01\RedactorLeve01.sln">
+</Property><Property Name="Файл параметров пользователя" Value="E:\Users\Keeper\Documents\Visual Studio 2010\Projects\RedactorLeve01\RedactorLeve01.suo">
+</Property><Property Name="Date" Value="30 октября 2015 г.">
+</Property><Property Name="Time" Value="0:02">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="RedactorLeve01.sln" Description="Успешно создана резервная копия файла E:\Users\Keeper\Documents\Visual Studio 2010\Projects\RedactorLeve01\RedactorLeve01.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="RedactorLeve01.suo" Description="Успешно создана резервная копия файла E:\Users\Keeper\Documents\Visual Studio 2010\Projects\RedactorLeve01\RedactorLeve01.suo.old">
+</Event><Event ErrorLevel="0" Project="RedactorLeve01" Source="RedactorLeve01\RedactorLeve01.vcproj" Description="Converting project file 'E:\Users\Keeper\Documents\Visual Studio 2010\Projects\RedactorLeve01\RedactorLeve01\RedactorLeve01.vcproj'.">
+</Event><Event ErrorLevel="1" Project="RedactorLeve01" Source="RedactorLeve01\RedactorLeve01.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="RedactorLeve01" Source="RedactorLeve01\RedactorLeve01.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="RedactorLeve01" Source="RedactorLeve01\RedactorLeve01.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="RedactorLeve01" Source="RedactorLeve01\RedactorLeve01.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="RedactorLeve01" Source="RedactorLeve01\RedactorLeve01.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="RedactorLeve01" Source="RedactorLeve01\RedactorLeve01.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="RedactorLeve01" Source="RedactorLeve01\RedactorLeve01.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="RedactorLeve01" Source="RedactorLeve01\RedactorLeve01.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="RedactorLeve01" Source="RedactorLeve01\RedactorLeve01.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="RedactorLeve01" Source="RedactorLeve01\RedactorLeve01.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="RedactorLeve01" Source="RedactorLeve01\RedactorLeve01.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="0" Project="RedactorLeve01" Source="RedactorLeve01\RedactorLeve01.vcproj" Description="Done converting to new project file 'E:\Users\Keeper\Documents\Visual Studio 2010\Projects\RedactorLeve01\RedactorLeve01\RedactorLeve01.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="RedactorLeve01" Source="RedactorLeve01\RedactorLeve01.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="RedactorLeve01.sln" Description="Преобразование решения успешно завершено">
+</Event><Event ErrorLevel="3" Project="" Source="RedactorLeve01.sln" Description="Converted">
+</Event></UpgradeLog>
